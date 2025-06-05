@@ -1,0 +1,8 @@
+data.csv
+data.parquet
+*.parquet
+*.csv
+*.json
+*.jsonl
+C:\MasterFolder\Coding\School\INFO Project\Google Collab\IA_INFO213_Project_Proposal.ipynb
+Google Collab\INFO213_Final_Project_Report.ipynb
